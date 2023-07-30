@@ -2,7 +2,8 @@
 
 MERN STACK Developer | Real-time learner | Student at NIT KURUKSHETRA |
 
-Coding
+![image](https://github.com/Shel-2607/Shel-2607/assets/98200123/9df60c38-002c-42aa-8b4a-1cc18063d134)
+
 
 
 🌱Currently learning -- WebD | Digital Image Proccessing | DSA
