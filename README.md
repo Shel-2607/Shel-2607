@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Shelja
 
-<!--
-**Shel-2607/Shel-2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN STACK Developer | Real-time learner | Student at NIT KURUKSHETRA |
 
-Here are some ideas to get you started:
+Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱Currently learning -- WebD | Digital Image Proccessing | DSA
+💬 Ask me about - Web Development
+Everything : Parents :)
+
+Languages and Tools:
+arduino bootstrap cplusplus css3 django express git html5 java javascript mongodb mysql nodejs python react
+
+
+
+
+
+ 
