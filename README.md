@@ -14,16 +14,19 @@ Everything : Parents :)
 
 Languages and Tools:
 
-![68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667](https://github.com/Shel-2607/Shel-2607/assets/98200123/eee93f17-c92b-4fec-8952-a1b1d0dcdd7c)
-![bootstrap-plain-wordmark](https://github.com/Shel-2607/Shel-2607/assets/98200123/5cdec820-a42c-4a0a-b902-687b9d095d5f)
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- <br> -->
 
-![cplusplus-original](https://github.com/Shel-2607/Shel-2607/assets/98200123/0e4323c2-3380-4146-a0ee-130b29714c8d)
-
-![css3-original-wordmark](https://github.com/Shel-2607/Shel-2607/assets/98200123/5d0a89fb-b082-4d32-beab-2a6803632ed8)
-
-![html5-original-wordmark](https://github.com/Shel-2607/Shel-2607/assets/98200123/4a222d17-1739-4758-b20b-5703a1123a32)
-![javascript-original](https://github.com/Shel-2607/Shel-2607/assets/98200123/5496df08-7810-4340-a61f-2260d61e0af7)
-![react-original-wordmark](https://github.com/Shel-2607/Shel-2607/assets/98200123/db0b9ee0-2d63-465c-887d-61ee5f917772)
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einstein-ash&show_icons=true&locale=en&layout=compact" alt="einstein-ash" /></p> -->
+<!-- <br><br><br> -->
+<br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einstein-ash&show_icons=true&locale=en" alt="einstein-ash" /></p>
+<p align="center">
+        
+<h1 align='center'>⚡️<i>Always On Work!</i>⚡️</h1>
+        <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
  
