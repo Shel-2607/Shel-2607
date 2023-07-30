@@ -20,12 +20,6 @@ Languages and Tools:
 <!-- <br> -->
 
 
-<br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einstein-ash&show_icons=true&locale=en" alt="einstein-ash" /></p>
-<p align="center">
-        
-<h1 align='center'>⚡️<i>Always On Work!</i>⚡️</h1>
-        <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/Bottom.svg" alt="Github Stats" />
-</p>
+ 
 
  
